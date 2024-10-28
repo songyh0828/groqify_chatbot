@@ -1,2 +1,4 @@
 groq
 streamlit
+google-cloud-aiplatform
+google-cloud-logging
