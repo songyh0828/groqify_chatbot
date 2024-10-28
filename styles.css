@@ -1,0 +1,31 @@
+.user-bubble {
+    background-color: #d1e7dd;
+    color: #0f5132;
+    text-align: left;
+}
+
+.assistant-bubble {
+    background-color: #cff4fc;
+    color: #055160;
+    text-align: left;
+}
+
+.timestamp {
+    font-size: 10px;
+    color: #6c757d;
+    margin-top: -5px;
+}
+
+
+.main-title {
+    font-size: 36px; 
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.chat-title {
+    font-size: 18px; 
+    font-weight: normal;
+    color: #BBBBBB; 
+}
+
